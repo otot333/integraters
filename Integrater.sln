@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrater", "Integrater\Integrater.csproj", "{A24CFAE0-E1C2-41F6-A3BB-66A7B396D834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrater.Repository", "Integrater.Repository\Integrater.Repository.csproj", "{EDBE07BB-4FD5-420C-8690-5BD3B83E8AEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A24CFAE0-E1C2-41F6-A3BB-66A7B396D834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A24CFAE0-E1C2-41F6-A3BB-66A7B396D834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A24CFAE0-E1C2-41F6-A3BB-66A7B396D834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBE07BB-4FD5-420C-8690-5BD3B83E8AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBE07BB-4FD5-420C-8690-5BD3B83E8AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBE07BB-4FD5-420C-8690-5BD3B83E8AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBE07BB-4FD5-420C-8690-5BD3B83E8AEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
